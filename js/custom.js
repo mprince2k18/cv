@@ -149,7 +149,7 @@
 			new TypeIt('.passion', {
 				speed: 200,
 		        startDelay: 800,
-		        strings: ['Web Designer', 'Web Developer'],
+		        strings: ['Software Developer', 'Web Developer', 'WordPress Developer', 'Flutter Developer'],
 		        breakLines: false,
 		        loop: true
 			});
